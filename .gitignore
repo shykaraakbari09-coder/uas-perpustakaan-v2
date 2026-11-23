@@ -1,0 +1,7 @@
+*.o
+*.out
+perpustakaan
+build/
+.vscode/
+*.swp
+*~
